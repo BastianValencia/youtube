@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "752975067008",
+    "firebase_url": "https://push-1dfe3-default-rtdb.firebaseio.com",
+    "project_id": "push-1dfe3",
+    "storage_bucket": "push-1dfe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752975067008:android:d51b5212e1f7deefc03365",
+        "android_client_info": {
+          "package_name": "com.bastianvalencia.pushyoutube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQAGeDxgc_ewu6u60J8i2oeLCD9k2iu_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
